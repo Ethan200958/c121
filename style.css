@@ -1,0 +1,50 @@
+#lens {
+    width: 150px;
+    height: 150px;
+}
+
+#net {
+    font-size:large;
+}
+
+#glorious {
+    width: 200px;
+    height: 200px;
+    border-radius:15px;
+}
+
+body {
+    text-align: center;
+}
+
+#model_O {
+    background-color: grey;
+    width: 50%;
+    padding-bottom: 20px;
+    padding-top: 5px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px black;
+}
+
+.mini_result {
+    background-color: burlywood;
+    border-radius:15px;
+    width: 40%;
+    height: 20%;
+    padding-top:5px;
+    float:none;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+h5 {
+    font-size:20px;
+}
+
+h1 {
+    border: black;
+    border-style: solid;
+    text-align: center;
+    border-width:4;
+    border-radius: 15px;
+}
